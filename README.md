@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @makaucodes
-- 👀 I’m interested in full-stack JS (React and Node) web application development
-- 💞️ I’m looking to collaborate on react.js and node.js open source projects
+- 🏠 I'm from Nairobi (NBO), Kenya🇰🇪 
+- 👀 I’m a Javascript Engineer building stuff using React Native
+- 💞️ I’m open to collaborating on react.js and node.js open source projects
 - 📫 How to reach me: email - jmwanga152@gmail.com
 
 <!---
